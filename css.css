@@ -1,0 +1,59 @@
+.titolo1 {
+	font-family:impact;
+	text-align:center;
+	color:#00FF7F;
+	border: 20px;
+}
+
+body {
+	background-color:#3CB371;
+}
+
+.informazioni2 {
+	font-family:impact;
+	color:#7FFFD4;
+	background-color:#87CEEB;
+	border-style: solid;
+	border-radius: 5%;
+	border-width:7px;
+	border-color: #90EE90;
+}
+
+.carta3 {
+	font-family:impact;
+	color:#FF0000;
+}
+
+.forbici4 {
+	font-family:impact;
+	color:#FFA500;
+}
+
+.sasso5 {
+	font-family:impact;
+	color:#0000CD;
+}
+.spock6{
+	font-family:impact;
+	color:purple
+}
+
+.lucertola7{
+	font-family:impact;
+	color:chocolate
+}
+
+.pulsante6 {
+	font-family:Sans-serif;
+	color:#12a76e;
+  bottom: 10px;
+  width: 50%;
+  border: 3px solid #8AC007;
+  background-color: #ADFF2F;
+}
+
+.canvas17 {
+	width: 50px;
+	height:auto;
+}
+
